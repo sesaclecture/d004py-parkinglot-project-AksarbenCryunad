@@ -186,7 +186,7 @@ while True:
 
                 # 3. 로그아웃
                 elif action == '3':
-                    print("로그아웃되었습니다.")
+                    print("로그아웃되었습니다. 안녕히가세요")
                     logged_in_id = None
                 
                 else:
